@@ -6,6 +6,7 @@ Part 1: Spam Detection in Media Data This part of the project focuses on identif
 
 Part 2: DMA Popularity and Data Distribution In the second part, the task shifts towards designing an efficient distributed database system. The focus is on organizing media data across different DMAs (Designated Market Areas) based on their popularity and wealth. We rank genres by their popularity within the top 10 DMAs, and later assign media genres to servers based on each DMA's wealth score. The aim is to balance performance, cost, and user experience in a resource-constrained distributed system.
 
+
 Project 2
 
 Lukewarm Cable: Channel Recommendation System for New Clients
